@@ -1,4 +1,4 @@
-package Ders30;
+package javacamp;
 
 public class Ders30 {
 
