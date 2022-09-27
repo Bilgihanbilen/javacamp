@@ -1,6 +1,6 @@
 package javacamp;
 
-public class javacamp {
+public class javacamp2022 {
 
     public static void main(String[] args) {
         String mesaj = "Bugün hava çok güzel";
